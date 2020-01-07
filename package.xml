@@ -5,6 +5,8 @@
         <members>A55</members>
         <members>A57</members>
         <members>ChangePasswordController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
         <name>ApexClass</name>
     </types>
 </Package>
