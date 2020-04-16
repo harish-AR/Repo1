@@ -1,4 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+    <version>48.0</version>
+    <types>
+        <members>A10</members>
+        <members>A50</members>
+        <members>A51</members>
+        <members>A55</members>
+        <members>A57</members>
+        <members>ChangePasswordController</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AppSwitcher</members>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
+    </types>
+    <types>
+        <members>standard__AppLauncher</members>
+        <members>standard__Chatter</members>
+        <members>standard__Community</members>
+        <name>CustomApplication</name>
+    </types>
 </Package>
