@@ -11,6 +11,7 @@
         <members>HelloClass</members>
         <members>HelloTestClass</members>
         <members>Test1</members>
+        <members>Test2</members>
         <name>ApexClass</name>
     </types>
 </Package>
