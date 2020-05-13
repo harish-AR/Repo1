@@ -9,6 +9,7 @@
         <members>A57</members>
         <members>ChangePasswordController</members>
         <members>HelloClass</members>
+        <members>HelloTestClass</members>
         <members>Test1</members>
         <name>ApexClass</name>
     </types>
