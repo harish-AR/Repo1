@@ -29,4 +29,10 @@
         <members>Lead</members>
         <name>AssignmentRules</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Authenticated Website</members>
+        <members>Chatter External User</members>
+        <name>Profile</name>
+    </types>
 </Package>
