@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>47.0</version>
+    <version>48.0</version>
     <types>
         <members>A10</members>
         <members>A50</members>
@@ -9,5 +9,32 @@
         <members>A57</members>
         <members>ChangePasswordController</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>AccountCleanInfo.Industry</members>
+        <members>AccountCleanInfo.Ownership</members>
+        <members>AuthorizationFormConsent.AuthorizationFormTextId</members>
+        <members>AuthorizationFormConsent.ConsentCapturedDateTime</members>
+        <members>AuthorizationFormConsent.ConsentCapturedSource</members>
+        <members>AuthorizationFormConsent.ConsentCapturedSourceType</members>
+        <members>AuthorizationFormConsent.ConsentGiverId</members>
+        <members>AuthorizationFormConsent.DocumentVersionId</members>
+        <members>AuthorizationFormConsent.Name</members>
+        <members>AuthorizationFormConsent.Status</members>
+        <members>AuthorizationFormDataUse.AuthorizationFormId</members>
+        <members>AuthorizationFormDataUse.DataUsePurposeId</members>
+        <members>AuthorizationFormDataUse.Name</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>AccountCleanInfo</members>
+        <members>AuthorizationFormConsent</members>
+        <members>AuthorizationFormDataUse</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>AuthorizationFormConsent.All_AuthorizationFormConsents</members>
+        <members>AuthorizationFormDataUse.All_AuthorizationFormDataUses</members>
+        <name>ListView</name>
     </types>
 </Package>
