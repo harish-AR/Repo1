@@ -1,0 +1,6 @@
+projectPath: ./autorabit_alldefault_vlocity_build
+manifest:
+- CalculationMatrix/IndividualBaseRates
+maxDepth: -1
+autoUpdateSettings: true
+separateMatrixVersions: true
