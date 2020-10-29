@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>48.0</version>
+    <types>
+        <members>A55</members>
+        <members>A57</members>
+        <members>ChangePasswordController</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
+        <members>HelloClass</members>
+        <members>HelloTestClass</members>
+        <members>Test1</members>
+        <name>ApexClass</name>
+    </types>
+</Package>
