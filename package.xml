@@ -30,4 +30,10 @@
         <members>standard__Community</members>
         <name>CustomApplication</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <name>Profile</name>
+    </types>
 </Package>
