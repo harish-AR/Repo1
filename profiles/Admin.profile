@@ -5,6 +5,12 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+     <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>false</default>
@@ -252,6 +258,7 @@
         <field>Account.Site</field>
         <readable>true</readable>
     </fieldPermissions>
+        <!--test comment from harish second one--->
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.TickerSymbol</field>
@@ -552,6 +559,7 @@
         <field>Campaign.HierarchyNumberOfOpportunities</field>
         <readable>false</readable>
     </fieldPermissions>
+        <!--test comment from harish third one--->
     <fieldPermissions>
         <editable>false</editable>
         <field>Campaign.HierarchyNumberOfResponses</field>
@@ -1107,6 +1115,7 @@
         <field>ContactPointPhone.BestTimeToContactStartTime</field>
         <readable>true</readable>
     </fieldPermissions>
+        <!--test comment from harish--->
     <fieldPermissions>
         <editable>true</editable>
         <field>ContactPointPhone.BestTimeToContactTimezone</field>
