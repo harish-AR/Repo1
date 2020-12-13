@@ -17,15 +17,14 @@
         <visible>true</visible>
     </applicationVisibilities>
     
-    <!-- comment from harish 1--->
-
-
-
-
-
-
-
-
+        <!--test comment from harish -aere- 1--->
+      <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
+    <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
           <applicationVisibilities>
@@ -66,12 +65,6 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
-         <applicationVisibilities>
-        <application>standard__Content</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-        
         <application>standard__LightningBolt</application>
         <default>false</default>
         <visible>true</visible>
@@ -125,16 +118,10 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
-     <applicationVisibilities>
-        <application>standard__Content</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Service</application>
         <default>false</default>
         <visible>true</visible>
-         <!-- comment from harish 12--->
     </applicationVisibilities>
      <applicationVisibilities>
         <application>standard__AllTabSet</application>
@@ -183,11 +170,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-         <applicationVisibilities>
-        <application>standard__Content</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.AccountSource</field>
         <readable>true</readable>
@@ -241,11 +223,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-         <applicationVisibilities>
-        <application>standard__Content</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.Fax</field>
         <readable>true</readable>
@@ -261,7 +238,6 @@
         <field>Account.Jigsaw</field>
         <readable>true</readable>
     </fieldPermissions>
-     <!-- comment from harish 13--->
     <fieldPermissions>
         <editable>false</editable>
          <applicationVisibilities>
@@ -469,7 +445,6 @@
         <field>Asset.ProductCode</field>
         <readable>true</readable>
     </fieldPermissions>
-     <!-- comment from harish 14--->
     <fieldPermissions>
         <editable>false</editable>
         <field>Asset.ProductDescription</field>
@@ -576,7 +551,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AuthorizationFormText.FullAuthorizationFormUrl</field>
-         <!-- comment from harish 15--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1023,6 +997,9 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+           <!---double conflict chck--2-->
+        
+        
         <field>Contact.MobilePhone</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1523,6 +1500,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <!---double conflict chck-->
+        
+        
         <editable>true</editable>
         <field>Individual.DeathDate</field>
         <readable>true</readable>
@@ -1643,6 +1623,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+          <!--test comment from harish -aere- 1345--->
         <editable>true</editable>
         <field>Lead.Fax</field>
         <readable>true</readable>
@@ -1822,6 +1803,7 @@
         <field>OpportunityLineItem.Description</field>
         <readable>true</readable>
     </fieldPermissions>
+      <!--test comment from harish -aere- 1345--->
     <fieldPermissions>
         <editable>false</editable>
         <field>OpportunityLineItem.Discount</field>
@@ -2241,6 +2223,7 @@
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
+          <!--test comment from harish -aere- 1345--->
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
