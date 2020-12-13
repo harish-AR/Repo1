@@ -27,6 +27,12 @@
     <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
+          <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -82,6 +88,13 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Marketing</application>
+        
+          <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -139,6 +152,13 @@
         <enabled>true</enabled>
     </classAccesses>
     <custom>false</custom>
+    
+      <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
@@ -178,6 +198,13 @@
         <editable>false</editable>
         <field>Account.DandbCompanyId</field>
         <readable>true</readable>
+        
+          <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -271,6 +298,13 @@
         <field>Account.ShippingAddress</field>
         <readable>true</readable>
     </fieldPermissions>
+    
+      <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Sic</field>
@@ -464,6 +498,13 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AuthorizationForm.DefaultAuthFormTextId</field>
+        
+          <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
