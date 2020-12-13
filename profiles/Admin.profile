@@ -997,6 +997,9 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+           <!---double conflict chck--2-->
+        
+        
         <field>Contact.MobilePhone</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1497,6 +1500,9 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <!---double conflict chck-->
+        
+        
         <editable>true</editable>
         <field>Individual.DeathDate</field>
         <readable>true</readable>
@@ -1617,6 +1623,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+          <!--test comment from harish -aere- 1345--->
         <editable>true</editable>
         <field>Lead.Fax</field>
         <readable>true</readable>
@@ -1796,6 +1803,7 @@
         <field>OpportunityLineItem.Description</field>
         <readable>true</readable>
     </fieldPermissions>
+      <!--test comment from harish -aere- 1345--->
     <fieldPermissions>
         <editable>false</editable>
         <field>OpportunityLineItem.Discount</field>
@@ -2215,6 +2223,7 @@
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
+          <!--test comment from harish -aere- 1345--->
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
