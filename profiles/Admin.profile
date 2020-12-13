@@ -48,6 +48,9 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Community</application>
+        
+               <application>standard__Community</application>
+        
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
@@ -96,6 +99,7 @@
     </applicationVisibilities>
         
         <default>false</default>
+               <application>standard__Community</application>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
@@ -145,6 +149,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>Test1</apexClass>
+               <application>standard__Community</application>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -194,6 +199,7 @@
         <field>Account.CustomerPriority__c</field>
         <readable>true</readable>
     </fieldPermissions>
+           <application>standard__Community</application>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.DandbCompanyId</field>
