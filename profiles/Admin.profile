@@ -10,6 +10,13 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+    
+     <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
     <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
@@ -91,6 +98,7 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
+      <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__ServiceConsole</application>
         <default>false</default>
@@ -190,6 +198,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+          <!--test comment from harish--->
         <field>Account.NaicsDesc</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -289,6 +298,7 @@
         <field>Account.YearStarted</field>
         <readable>true</readable>
     </fieldPermissions>
+      <!--test comment from harish--->
     <fieldPermissions>
         <editable>true</editable>
         <field>Asset.AccountId</field>
@@ -388,6 +398,7 @@
         <editable>true</editable>
         <field>Asset.SerialNumber</field>
         <readable>true</readable>
+          <!--test comment from harish--->
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -487,6 +498,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Campaign.AmountWonOpportunities</field>
+          <!--test comment from harish--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
