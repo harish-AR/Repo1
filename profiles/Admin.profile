@@ -49,6 +49,12 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
         <application>standard__LightningBolt</application>
         <default>false</default>
         <visible>true</visible>
@@ -92,6 +98,11 @@
         <application>standard__SalesforceCMS</application>
         <default>false</default>
         <visible>false</visible>
+    </applicationVisibilities>
+     <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Service</application>
@@ -138,6 +149,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.AccountSource</field>
         <readable>true</readable>
@@ -183,6 +199,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.Fax</field>
         <readable>true</readable>
