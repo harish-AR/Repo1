@@ -17,6 +17,13 @@
         <visible>true</visible>
     </applicationVisibilities>
     
+        <!--test comment from harish -aere- 1--->
+      <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    
     <!--test comment from harish--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
@@ -90,6 +97,7 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__SalesforceCMS</application>
+        <!--test comment from harish -aere- 2--->
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
@@ -189,6 +197,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.Industry</field>
+        <!--test comment from harish -aere- 3--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -388,6 +397,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Asset.Product2Id</field>
+        <!--test comment from harish -aere- 4--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
