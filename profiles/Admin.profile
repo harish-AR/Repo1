@@ -98,6 +98,11 @@
     </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__ServiceConsole</application>
+         <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
           <!--test comment from harish--->
         <default>false</default>
         <visible>false</visible>
@@ -193,6 +198,11 @@
         <editable>false</editable>
         <field>Account.NaicsCode</field>
         <readable>true</readable>
+         <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -288,6 +298,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+         <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+         <applicationVisibilities>
+        <application>standard__AllTabSet</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
         <field>Account.Website</field>
         <readable>true</readable>
     </fieldPermissions>
