@@ -17,14 +17,15 @@
         <visible>true</visible>
     </applicationVisibilities>
     
-        <!--test comment from harish -aere- 1--->
-      <applicationVisibilities>
-        <application>standard__AllTabSet</application>
-        <default>false</default>
-        <visible>true</visible>
-    </applicationVisibilities>
-    
-    <!--test comment from harish--->
+    <!-- comment from harish 1--->
+
+
+
+
+
+
+
+
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
           <applicationVisibilities>
@@ -65,6 +66,12 @@
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+        
         <application>standard__LightningBolt</application>
         <default>false</default>
         <visible>true</visible>
@@ -118,10 +125,16 @@
         <default>false</default>
         <visible>false</visible>
     </applicationVisibilities>
+     <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
     <applicationVisibilities>
         <application>standard__Service</application>
         <default>false</default>
         <visible>true</visible>
+         <!-- comment from harish 12--->
     </applicationVisibilities>
      <applicationVisibilities>
         <application>standard__AllTabSet</application>
@@ -170,6 +183,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.AccountSource</field>
         <readable>true</readable>
@@ -223,6 +241,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+         <applicationVisibilities>
+        <application>standard__Content</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
         <editable>true</editable>
         <field>Account.Fax</field>
         <readable>true</readable>
@@ -238,6 +261,7 @@
         <field>Account.Jigsaw</field>
         <readable>true</readable>
     </fieldPermissions>
+     <!-- comment from harish 13--->
     <fieldPermissions>
         <editable>false</editable>
          <applicationVisibilities>
@@ -445,6 +469,7 @@
         <field>Asset.ProductCode</field>
         <readable>true</readable>
     </fieldPermissions>
+     <!-- comment from harish 14--->
     <fieldPermissions>
         <editable>false</editable>
         <field>Asset.ProductDescription</field>
@@ -551,6 +576,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AuthorizationFormText.FullAuthorizationFormUrl</field>
+         <!-- comment from harish 15--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
