@@ -17,7 +17,7 @@
         <visible>true</visible>
     </applicationVisibilities>
     
-    <!--test comment from harish--->
+    <!-- comment from harish 1--->
     <applicationVisibilities>
         <application>standard__AppLauncher</application>
         <default>false</default>
@@ -97,6 +97,7 @@
         <application>standard__Service</application>
         <default>false</default>
         <visible>true</visible>
+         <!-- comment from harish 12--->
     </applicationVisibilities>
      <applicationVisibilities>
         <application>standard__AllTabSet</application>
@@ -196,6 +197,7 @@
         <field>Account.Jigsaw</field>
         <readable>true</readable>
     </fieldPermissions>
+     <!-- comment from harish 13--->
     <fieldPermissions>
         <editable>false</editable>
          <applicationVisibilities>
@@ -395,6 +397,7 @@
         <field>Asset.ProductCode</field>
         <readable>true</readable>
     </fieldPermissions>
+     <!-- comment from harish 14--->
     <fieldPermissions>
         <editable>false</editable>
         <field>Asset.ProductDescription</field>
@@ -494,6 +497,7 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>AuthorizationFormText.FullAuthorizationFormUrl</field>
+         <!-- comment from harish 15--->
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
