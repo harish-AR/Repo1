@@ -3,6 +3,8 @@
     <version>49.0</version>
     <types>
         <members>A55</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
         <members>HelloClass</members>
         <members>HelloTestClass</members>
         <members>Test1</members>
