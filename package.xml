@@ -3,6 +3,8 @@
     <version>49.0</version>
     <types>
         <members>A55</members>
+        <members>CommunitiesLandingControllerTest</members>
+        <members>CommunitiesLoginController</members>
         <members>HelloClass</members>
         <members>HelloTestClass</members>
         <members>Test1</members>
@@ -29,6 +31,11 @@
         <members>standard__Chatter</members>
         <members>standard__Community</members>
         <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>ACE_Broker_Users</members>
+        <members>API_User_Clone_Account</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>Admin</members>
