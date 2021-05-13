@@ -4,6 +4,8 @@
         <members>A10</members>
         <members>A55</members>
         <members>A57</members>
+        <members>Test1</members>
+        <members>Test2</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -11,6 +13,7 @@
         <members>Account.CustomerPriority__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Asset.Status</members>
         <name>CustomField</name>
     </types>
 </Package>
