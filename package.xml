@@ -2,11 +2,8 @@
     <version>49.0</version>
     <types>
         <members>A10</members>
-        <members>A50</members>
-        <members>A51</members>
         <members>A55</members>
         <members>A57</members>
-        <members>ChangePasswordController</members>
         <members>Test1</members>
         <members>Test2</members>
         <name>ApexClass</name>
