@@ -264,7 +264,8 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
-        <fullName>AutorabitExtId__c</fullName>
+        <test1>AutorabitExtId__c111</test1>
+        <fullName1>AutorabitExtId__c111</fullName1>
         <description>External Id created by AutoRABIT</description>
         <externalId>true</externalId>
         <label>AutorabitExtId__c</label>
