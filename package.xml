@@ -32,6 +32,12 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.Active__c</members>
+        <members>Account.AutorabitExtId__c</members>
+        <members>Asset.Status</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>BrokerageAccountAdmin</members>
         <members>Brokerage_And_Consultant_object_access</members>
         <members>Bulk_Data_Load_Jobs</members>
