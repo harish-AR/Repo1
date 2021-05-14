@@ -264,6 +264,18 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <test1>AutorabitExtId__c111</test1>
+        <fullName1>AutorabitExtId__c111</fullName1>
+        <description>External Id created by AutoRABIT</description>
+        <externalId>true</externalId>
+        <label>AutorabitExtId__c</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>BillingAddress</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
