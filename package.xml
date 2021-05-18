@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>49.0</version>
     <types>
-        <members>A55</members>
         <members>CommunitiesLandingControllerTest</members>
         <members>CommunitiesLoginController</members>
         <members>HelloClass</members>
@@ -36,6 +35,28 @@
         <members>Account.CustomerPriority__c</members>
         <members>Account.SLA__c</members>
         <members>Account.UpsellOpportunity__c</members>
+        <members>Asset.AccountId</members>
+        <members>Asset.AssetLevel</members>
+        <members>Asset.AssetProvidedById</members>
+        <members>Asset.AssetServicedById</members>
+        <members>Asset.ContactId</members>
+        <members>Asset.Description</members>
+        <members>Asset.InstallDate</members>
+        <members>Asset.IsCompetitorProduct</members>
+        <members>Asset.IsInternal</members>
+        <members>Asset.Name</members>
+        <members>Asset.OwnerId</members>
+        <members>Asset.ParentId</members>
+        <members>Asset.Price</members>
+        <members>Asset.Product2Id</members>
+        <members>Asset.ProductCode</members>
+        <members>Asset.PurchaseDate</members>
+        <members>Asset.Quantity</members>
+        <members>Asset.RootAssetId</members>
+        <members>Asset.SerialNumber</members>
+        <members>Asset.Status</members>
+        <members>Asset.StockKeepingUnit</members>
+        <members>Asset.UsageEndDate</members>
         <name>CustomField</name>
     </types>
     <types>
