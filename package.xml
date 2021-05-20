@@ -12,6 +12,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
         <members>Asset.Status</members>
         <name>CustomField</name>
     </types>
