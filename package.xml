@@ -4,6 +4,7 @@
         <members>A55</members>
         <members>CommunitiesLandingControllerTest</members>
         <members>CommunitiesLoginController</members>
+        <members>DemoClass2</members>
         <members>HelloClass</members>
         <members>HelloTestClass</members>
         <members>Test1</members>
