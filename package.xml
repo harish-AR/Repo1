@@ -11,4 +11,9 @@
         <members>Test2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>AppSwitcher</members>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
+    </types>
 </Package>
