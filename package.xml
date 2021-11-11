@@ -2,6 +2,8 @@
     <version>49.0</version>
     <types>
         <members>A57</members>
+        <members>DemoClass</members>
+        <members>DemoClass2</members>
         <members>Test1</members>
         <members>Test2</members>
         <name>ApexClass</name>
