@@ -2,6 +2,7 @@
     <version>49.0</version>
     <types>
         <members>A0</members>
+        <members>A1</members>
         <members>A55</members>
         <members>A57</members>
         <members>ChangePasswordController</members>
