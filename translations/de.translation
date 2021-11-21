@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customLabels>
+        <label>Test the german language</label>
+        <name>AAtest456</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ac111 --></label>
+        <name>AC1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC100 --></label>
+        <name>AC100</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC11 --></label>
+        <name>AC11</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC211 --></label>
+        <name>AC2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC56 --></label>
+        <name>AC56</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC6712 --></label>
+        <name>AC67</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- AC8 --></label>
+        <name>AC8</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- ACCL1 --></label>
+        <name>ACCL1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CL! --></label>
+        <name>CL</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cls2 --></label>
+        <name>Cls2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Cls3 --></label>
+        <name>Cls3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- CustomLabel1 --></label>
+        <name>CustomLabel1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- HarishLabel1 --></label>
+        <name>HarishLabel1</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- LB3 --></label>
+        <name>LB3</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- StrLB --></label>
+        <name>StrLB</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TElugu --></label>
+        <name>Test_Label</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test label mar 27 --></label>
+        <name>Test_label_mar_27</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- aaaabcd --></label>
+        <name>aaaabcd</name>
+    </customLabels>
+    <customLabels>
+        <label>qqqqqqqqqqqqqqq</label>
+        <name>lb1</name>
+    </customLabels>
+    <customLabels>
+        <label>lb2 german</label>
+        <name>lb2</name>
+    </customLabels>
+    <customLabels>
+        <label>gggggggg</label>
+        <name>vvvvv</name>
+    </customLabels>
+    <customTabs>
+        <label><!-- NewAppflexipage --></label>
+        <name>NewAppflexipage</name>
+    </customTabs>
+</Translations>

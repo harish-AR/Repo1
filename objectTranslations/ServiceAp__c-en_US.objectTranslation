@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ServiceAp</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ServiceAps</value>
+    </caseValues>
+    <fields>
+        <help><!-- rid --></help>
+        <label><!-- R1 ID --></label>
+        <name>R1_ID__c</name>
+    </fields>
+    <fields>
+        <help><!-- rid --></help>
+        <label><!-- R2 ID --></label>
+        <name>R2_ID__c</name>
+    </fields>
+    <fields>
+        <help><!-- rid --></help>
+        <label><!-- R3 ID --></label>
+        <name>R3_ID__c</name>
+    </fields>
+    <fields>
+        <help><!-- rid --></help>
+        <label><!-- R ID --></label>
+        <name>R_ID__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

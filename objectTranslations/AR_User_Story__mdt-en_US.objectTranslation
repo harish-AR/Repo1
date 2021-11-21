@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>AR User Story</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>AR User Storys</value>
+    </caseValues>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- AR User Story --></label>
+        <name>AR_User_Story__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- Grade --></label>
+        <name>Grade__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation><!-- B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C</masterLabel>
+            <translation><!-- C --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>D</masterLabel>
+            <translation><!-- D --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- Name --></label>
+        <name>Name__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- Percent --></label>
+        <name>Percent__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- Personal Email --></label>
+        <name>Personal_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Phone --></label>
+        <name>Phone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Today --></label>
+        <name>Today__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- Total Amount --></label>
+        <name>Total_Amount__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- isTrue --></label>
+        <name>isTrue__c</name>
+    </fields>
+    <fields>
+        <help><!-- AR User Story --></help>
+        <label><!-- url --></label>
+        <name>url__c</name>
+    </fields>
+    <layouts>
+        <layout>AR User Story Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

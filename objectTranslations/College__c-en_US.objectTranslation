@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>College</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>College</value>
+    </caseValues>
+    <fields>
+        <label><!-- CollegeP1 --></label>
+        <name>CollegeP1__c</name>
+        <picklistValues>
+            <masterLabel>aaaa</masterLabel>
+            <translation><!-- aaaa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>bbbb</masterLabel>
+            <translation><!-- bbbb --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ccccc</masterLabel>
+            <translation><!-- ccccc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>dddd</masterLabel>
+            <translation><!-- dddd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>eeee</masterLabel>
+            <translation><!-- eeee --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ffffff</masterLabel>
+            <translation><!-- ffffff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ggggg</masterLabel>
+            <translation><!-- ggggg --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CollegeP2 --></label>
+        <name>CollegeP2__c</name>
+        <picklistValues>
+            <masterLabel>1111</masterLabel>
+            <translation><!-- 1111 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>222</masterLabel>
+            <translation><!-- 222 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>333</masterLabel>
+            <translation><!-- 333 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>44444</masterLabel>
+            <translation><!-- 44444 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CollegeP44 --></label>
+        <name>CollegeP44__c</name>
+        <picklistValues>
+            <masterLabel>aasfds</masterLabel>
+            <translation><!-- aasfds --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>fasdf</masterLabel>
+            <translation><!-- fasdf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>sdfa</masterLabel>
+            <translation><!-- sdfa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>sfadf</masterLabel>
+            <translation><!-- sfadf --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PicklistFieldMulti1 --></label>
+        <name>PicklistFieldMulti1__c</name>
+        <picklistValues>
+            <masterLabel>aaaa</masterLabel>
+            <translation><!-- aaaa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>bbbb</masterLabel>
+            <translation><!-- bbbb --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ccccc</masterLabel>
+            <translation><!-- ccccc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>dddd</masterLabel>
+            <translation><!-- dddd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>eeded</masterLabel>
+            <translation><!-- eeded --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- StudentsCount --></help>
+        <label><!-- StudentsCount --></label>
+        <name>StudentsCount__c</name>
+    </fields>
+    <fields>
+        <label><!-- Test Formula --></label>
+        <name>Test_Formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- Today --></label>
+        <name>Today__c</name>
+    </fields>
+    <fields>
+        <label><!-- testf1 --></label>
+        <name>testf1__c</name>
+    </fields>
+    <fields>
+        <label><!-- testf2 --></label>
+        <name>testf2__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

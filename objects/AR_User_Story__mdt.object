@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>AR User Story</description>
+    <fields>
+        <fullName>AR_User_Story__c</fullName>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>AR User Story</label>
+        <length>32768</length>
+        <type>LongTextArea</type>
+        <visibleLines>3</visibleLines>
+    </fields>
+    <fields>
+        <fullName>Grade__c</fullName>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>Grade</label>
+        <required>true</required>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>A</fullName>
+                    <default>true</default>
+                    <label>A</label>
+                </value>
+                <value>
+                    <fullName>B</fullName>
+                    <default>false</default>
+                    <label>B</label>
+                </value>
+                <value>
+                    <fullName>C</fullName>
+                    <default>false</default>
+                    <label>C</label>
+                </value>
+                <value>
+                    <fullName>D</fullName>
+                    <default>false</default>
+                    <label>D</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Name__c</fullName>
+        <caseSensitive>false</caseSensitive>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>Name</label>
+        <length>50</length>
+        <required>true</required>
+        <type>Text</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>Percent__c</fullName>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>Percent</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>Personal_Email__c</fullName>
+        <caseSensitive>true</caseSensitive>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>Personal Email</label>
+        <required>true</required>
+        <type>Email</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>Phone__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Phone</label>
+        <required>true</required>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Today__c</fullName>
+        <defaultValue>$System.OriginDateTime</defaultValue>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Today</label>
+        <required>true</required>
+        <type>Date</type>
+    </fields>
+    <fields>
+        <fullName>Total_Amount__c</fullName>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>Total Amount</label>
+        <precision>18</precision>
+        <required>true</required>
+        <scale>0</scale>
+        <type>Number</type>
+        <unique>true</unique>
+    </fields>
+    <fields>
+        <fullName>isTrue__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>isTrue</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>isTrue</label>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
+        <fullName>url__c</fullName>
+        <description>AR User Story</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <inlineHelpText>AR User Story</inlineHelpText>
+        <label>url</label>
+        <required>true</required>
+        <type>Url</type>
+    </fields>
+    <label>AR User Story</label>
+    <pluralLabel>AR User Storys</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

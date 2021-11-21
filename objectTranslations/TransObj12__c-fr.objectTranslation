@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value><!-- TransObj1 --></value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value><!-- TransObj1 --></value>
+    </caseValues>
+    <fields>
+        <label><!-- SomeCurrency --></label>
+        <name>SomeCurrency__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestCurrency --></label>
+        <name>TestCurrency__c</name>
+    </fields>
+    <fields>
+        <label>filed222222211</label>
+        <name>field12__c</name>
+    </fields>
+    <fields>
+        <label><!-- field3 --></label>
+        <name>field13__c</name>
+    </fields>
+    <fields>
+        <label><!-- field66 --></label>
+        <name>field66__c</name>
+    </fields>
+    <gender><!-- Masculine --></gender>
+    <nameFieldLabel><!-- TransObj1 Name --></nameFieldLabel>
+    <startsWith><!-- Consonant --></startsWith>
+</CustomObjectTranslation>

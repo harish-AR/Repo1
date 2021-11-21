@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>QuickInfo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>QuickInfo</value>
+    </caseValues>
+    <fields>
+        <label><!-- A --></label>
+        <name>A__c</name>
+    </fields>
+    <fields>
+        <label><!-- B --></label>
+        <name>B__c</name>
+    </fields>
+    <fields>
+        <label><!-- C --></label>
+        <name>C__c</name>
+    </fields>
+    <fields>
+        <label><!-- D --></label>
+        <name>D__c</name>
+    </fields>
+    <fields>
+        <label><!-- EE --></label>
+        <name>EE__c</name>
+    </fields>
+    <fields>
+        <label><!-- QuickInfoObjDescription --></label>
+        <name>QuickInfoObjDescription__c</name>
+    </fields>
+    <fields>
+        <label><!-- QuickInfoOnlineAvailable --></label>
+        <name>QuickInfoOnlineAvailable__c</name>
+    </fields>
+    <fields>
+        <label><!-- QuickInfoPhone --></label>
+        <name>QuickInfoPhone__c</name>
+    </fields>
+    <fields>
+        <label><!-- Special* &quot; info --></label>
+        <name>Specialquot_info__c</name>
+    </fields>
+    <fields>
+        <label><!-- T --></label>
+        <name>T__c</name>
+    </fields>
+    <fields>
+        <label><!-- bb --></label>
+        <name>bb__c</name>
+    </fields>
+    <fields>
+        <label><!-- e --></label>
+        <name>e__c</name>
+    </fields>
+    <fields>
+        <label><!-- p --></label>
+        <name>p__c</name>
+    </fields>
+    <fields>
+        <label><!-- text --></label>
+        <name>text__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

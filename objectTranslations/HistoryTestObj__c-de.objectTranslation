@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>false</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Accusative</caseType>
+        <plural>true</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>false</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Genitive</caseType>
+        <plural>true</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>false</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <caseValues>
+        <caseType>Dative</caseType>
+        <plural>true</plural>
+        <value><!-- HistoryTestObj --></value>
+    </caseValues>
+    <fields>
+        <label><!-- AboutUs --></label>
+        <name>AboutUs__c</name>
+    </fields>
+    <gender><!-- Neuter --></gender>
+    <nameFieldLabel><!-- HistoryTestObj Name --></nameFieldLabel>
+    <validationRules>
+        <errorMessage>Just for testing error</errorMessage>
+        <name>ValidationRuleTest1</name>
+    </validationRules>
+</CustomObjectTranslation>

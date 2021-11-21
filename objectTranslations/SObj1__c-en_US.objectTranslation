@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>SObj1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>SObj1s</value>
+    </caseValues>
+    <fields>
+        <label><!-- FirstField --></label>
+        <name>FirstField__c</name>
+    </fields>
+    <fields>
+        <label><!-- FormulaField --></label>
+        <name>FormulaField__c</name>
+    </fields>
+    <fields>
+        <label><!-- SObj1Desc --></label>
+        <name>SObj1Desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- SecondField --></label>
+        <name>SecondField__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

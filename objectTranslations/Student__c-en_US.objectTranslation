@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Student</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Students</value>
+    </caseValues>
+    <fields>
+        <label><!-- StudentKnownLanguages --></label>
+        <name>StudentKnownLanguages__c</name>
+        <picklistValues>
+            <masterLabel>English</masterLabel>
+            <translation><!-- English --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hindi</masterLabel>
+            <translation><!-- Hindi --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Tamil</masterLabel>
+            <translation><!-- Tamil --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Telugu</masterLabel>
+            <translation><!-- Telugu --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- StudentSkils --></label>
+        <name>StudentSkils__c</name>
+        <picklistValues>
+            <masterLabel>HTML</masterLabel>
+            <translation><!-- HTML --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hibernate</masterLabel>
+            <translation><!-- Hibernate --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JAVA</masterLabel>
+            <translation><!-- JAVA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>JQuery</masterLabel>
+            <translation><!-- JQuery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Javascript</masterLabel>
+            <translation><!-- Javascript --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Spring</masterLabel>
+            <translation><!-- Spring --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Webservices</masterLabel>
+            <translation><!-- Webservices --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <label><!-- sr1 --></label>
+        <name>sr1</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- sweblink1 --></label>
+        <name>sweblink1</name>
+    </webLinks>
+</CustomObjectTranslation>

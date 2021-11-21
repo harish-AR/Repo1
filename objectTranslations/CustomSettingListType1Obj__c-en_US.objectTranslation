@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CustomSettingListType1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CustomSettingListType1</value>
+    </caseValues>
+    <fields>
+        <label><!-- CallAvailableTime --></label>
+        <name>CallAvailableTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- Custom_Desc_textarea --></label>
+        <name>Custom_Desc_textarea__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Email --></label>
+        <name>Customer_Email__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Info_text --></label>
+        <name>Customer_Info_text__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_MobileNumber --></label>
+        <name>Customer_MobileNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- Customer_Phone_Number --></label>
+        <name>Customer_Phone_Number__c</name>
+    </fields>
+    <fields>
+        <label><!-- DOB_!32#$%^&amp;* --></label>
+        <name>DOB_info__c</name>
+    </fields>
+    <fields>
+        <label><!-- EnterCurency$22&amp;^@! --></label>
+        <name>EnterCurency__c</name>
+    </fields>
+    <fields>
+        <label><!-- Product_Cost --></label>
+        <name>Product_Cost__c</name>
+    </fields>
+    <fields>
+        <label><!-- Website_URL --></label>
+        <name>Website_URL__c</name>
+    </fields>
+    <fields>
+        <label><!-- desc --></label>
+        <name>desc__c</name>
+    </fields>
+    <fields>
+        <label><!-- isAvailable --></label>
+        <name>isAvailable__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

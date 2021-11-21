@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>PicklistTest1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>PicklistTest1s</value>
+    </caseValues>
+    <fields>
+        <help><!-- ccc --></help>
+        <label><!-- FormulaField2 --></label>
+        <name>FormulaField2__c</name>
+    </fields>
+    <fields>
+        <help><!-- HYPERLINK(&quot;https://login.autorabit.com/&quot;, &quot;Release Management Tool&quot;) --></help>
+        <label><!-- FormulaField33 --></label>
+        <name>FormulaField33__c</name>
+    </fields>
+    <fields>
+        <help><!-- PTLookupFiled1 --></help>
+        <label><!-- PicklistTest1 --></label>
+        <name>PTLookupFiled1__c</name>
+        <relationshipLabel><!-- PicklistTest1s --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- StatesInfo --></label>
+        <name>StatesInfoFormula__c</name>
+    </fields>
+    <fields>
+        <label><!-- StatesInfo --></label>
+        <name>StatesInfo__c</name>
+    </fields>
+    <fields>
+        <label><!-- country --></label>
+        <name>country__c</name>
+    </fields>
+    <fields>
+        <help><!-- fieldtest2222 --></help>
+        <label><!-- fieldtest2222 --></label>
+        <name>fieldtest2222__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>InstallationObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>InstallationObjs</value>
+    </caseValues>
+    <fields>
+        <label><!-- InstallationAccess --></label>
+        <name>InstallationAccess__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Change1</masterLabel>
+            <translation><!-- Change1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Change2</masterLabel>
+            <translation><!-- Change2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Change3</masterLabel>
+            <translation><!-- Change3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Change4</masterLabel>
+            <translation><!-- Change4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Prod</masterLabel>
+            <translation><!-- Prod --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>QA</masterLabel>
+            <translation><!-- QA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Read</masterLabel>
+            <translation><!-- Read --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>UAT</masterLabel>
+            <translation><!-- UAT --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Write</masterLabel>
+            <translation><!-- Write --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- InstallationType --></label>
+        <name>InstallationType__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Local</masterLabel>
+            <translation><!-- Local --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Remote</masterLabel>
+            <translation><!-- Remote --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <help><!-- Installing-Version --></help>
+        <label><!-- InstallingVersion --></label>
+        <name>InstallingVersion__c</name>
+    </fields>
+    <fields>
+        <label><!-- PickListReadOnly --></label>
+        <name>PickListReadOnly__c</name>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Unable to select</masterLabel>
+            <translation><!-- Unable to select --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PicklIstField2 --></label>
+        <name>PicklIstField2__c</name>
+        <picklistValues>
+            <masterLabel>All</masterLabel>
+            <translation><!-- All --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>one</masterLabel>
+            <translation><!-- one --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>two</masterLabel>
+            <translation><!-- two --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- PicklIstFieldAlll4343434 --></label>
+        <name>PicklIstFieldAlll4343434__c</name>
+        <picklistValues>
+            <masterLabel>asdff</masterLabel>
+            <translation><!-- asdff --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>asfdaffsad</masterLabel>
+            <translation><!-- asfdaffsad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>asfffsad</masterLabel>
+            <translation><!-- asfffsad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>asfsadf</masterLabel>
+            <translation><!-- asfsadf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ffsaf</masterLabel>
+            <translation><!-- ffsaf --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>sadfsa</masterLabel>
+            <translation><!-- sadfsa --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>safaf</masterLabel>
+            <translation><!-- safaf --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>InstallationObj Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <layouts>
+        <layout>InstllationDuplicateLayout1</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <recordTypes>
+        <label><!-- INRecord1234 --></label>
+        <name>INRecord1234</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Instr3 --></label>
+        <name>Instr3</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- PickListField1RecordType1 --></label>
+        <name>PickListField1RecordType1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- instr1 --></label>
+        <name>instr1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- instr2All --></label>
+        <name>instr2All</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

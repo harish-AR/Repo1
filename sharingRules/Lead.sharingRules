@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>Criteria_based_sharing</fullName>
+        <accessLevel>Edit</accessLevel>
+        <label>Criteria based sharing</label>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+        <criteriaItems>
+            <field>Company</field>
+            <operation>contains</operation>
+            <value>test</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+</SharingRules>

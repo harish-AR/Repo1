@@ -1,0 +1,20 @@
+<apex:page standardController="Expenses__c" recordSetVar="exps">
+
+<!--<table>
+    
+    <tr><td>Name</td><td>Name</td>
+    </tr>
+    
+</table>-->
+<apex:form >
+    <apex:pageBlock >
+    <apex:pageBlockTable value="{!exps}" var="exp">
+        <apex:column value="{!exp.Name}"/>
+        <apex:column value="{!exp.Purpose__c}"/>
+        <apex:column value="{!exp.Date_of_purchage__c}"/>
+        <apex:column value="{!exp.Cost__c}"/>
+    </apex:pageBlockTable>
+    </apex:pageBlock>
+</apex:form>
+
+</apex:page>

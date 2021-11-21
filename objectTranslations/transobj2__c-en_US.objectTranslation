@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>transobj2</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>transobj2s</value>
+    </caseValues>
+    <fields>
+        <help><!-- Field5 --></help>
+        <label><!-- Field5 --></label>
+        <name>Field5__c</name>
+    </fields>
+    <fields>
+        <label>info1</label>
+        <name>field1__c</name>
+    </fields>
+    <fields>
+        <label>//info</label>
+        <name>field2__c</name>
+    </fields>
+    <fields>
+        <label>&lt;! info 3 &gt;</label>
+        <name>field3__c</name>
+    </fields>
+    <fields>
+        <label>&lt;! &lt;info &gt;</label>
+        <name>field4__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Wellsfargo</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Wellsfargo</value>
+    </caseValues>
+    <fields>
+        <label>field1 for testing</label>
+        <name>Field_for_Testing__c</name>
+    </fields>
+    <fields>
+        <label>field testing22 2</label>
+        <name>Field_for_testing22__c</name>
+    </fields>
+    <fields>
+        <label>testing 23456</label>
+        <name>Field_for_testing2345__c</name>
+    </fields>
+    <fields>
+        <label><!-- filed555 --></label>
+        <name>filed555__c</name>
+    </fields>
+    <fields>
+        <label><!-- new filed 1111 --></label>
+        <name>new_filed_1111__c</name>
+    </fields>
+    <recordTypes>
+        <label><!-- Recordtype 1 --></label>
+        <name>Recordtype_1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Recordtype 2 --></label>
+        <name>Recordtype_2</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Test validation --></errorMessage>
+        <name>Custom_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- text started with a --></errorMessage>
+        <name>Wellsfargo_validation_test_rules11</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- Gmail --></label>
+        <name>Gmail</name>
+    </webLinks>
+    <webLinks>
+        <label><!-- ar_link --></label>
+        <name>ar_link</name>
+    </webLinks>
+</CustomObjectTranslation>

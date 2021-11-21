@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ExtObj3</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ExtObj3s</value>
+    </caseValues>
+    <fields>
+        <label><!-- ExtObj3Cites --></label>
+        <name>ExtObj3Cites__c</name>
+        <picklistValues>
+            <masterLabel>atp</masterLabel>
+            <translation><!-- atp --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>bng</masterLabel>
+            <translation><!-- bng --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>chennai</masterLabel>
+            <translation><!-- chennai --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>film nagar</masterLabel>
+            <translation><!-- film nagar --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>hyd</masterLabel>
+            <translation><!-- hyd --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>s r nagar</masterLabel>
+            <translation><!-- s r nagar --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- ExtObj3PickList1 --></label>
+        <name>ExtObj3PickList1__c</name>
+        <picklistValues>
+            <masterLabel>11</masterLabel>
+            <translation><!-- 11 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>22</masterLabel>
+            <translation><!-- 22 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>33</masterLabel>
+            <translation><!-- 33 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>44</masterLabel>
+            <translation><!-- 44 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>55</masterLabel>
+            <translation><!-- 55 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>66</masterLabel>
+            <translation><!-- 66 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>77</masterLabel>
+            <translation><!-- 77 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>88</masterLabel>
+            <translation><!-- 88 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>99</masterLabel>
+            <translation><!-- 99 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- ExtObj3PickList2 --></label>
+        <name>ExtObj3PickList2__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>5</masterLabel>
+            <translation><!-- 5 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>6</masterLabel>
+            <translation><!-- 6 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>7</masterLabel>
+            <translation><!-- 7 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>8</masterLabel>
+            <translation><!-- 8 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>9</masterLabel>
+            <translation><!-- 9 --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

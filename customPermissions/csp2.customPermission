@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPermission xmlns="http://soap.sforce.com/2006/04/metadata">
+    <connectedApp>sf_com_apps__Dataloader_Bulk</connectedApp>
+    <description>dlp bulk</description>
+    <label>csp2</label>
+    <requiredPermission>
+        <customPermission>csp1</customPermission>
+        <dependency>true</dependency>
+    </requiredPermission>
+    <requiredPermission>
+        <customPermission>CustomPermissiontest1</customPermission>
+        <dependency>true</dependency>
+    </requiredPermission>
+</CustomPermission>

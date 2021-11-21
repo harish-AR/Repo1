@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>pd1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>pd1s</value>
+    </caseValues>
+    <fields>
+        <help><!-- testfield1 Help Text --></help>
+        <label><!-- testfield1 --></label>
+        <name>testfield1__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Record with Rec 1 should not be migrated --></errorMessage>
+        <name>pd1_validation_rule_1</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Name of the record is empty --></errorMessage>
+        <name>pd1_validation_rule_2</name>
+    </validationRules>
+</CustomObjectTranslation>

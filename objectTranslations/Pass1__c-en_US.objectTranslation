@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Pass1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Pass1s</value>
+    </caseValues>
+    <fields>
+        <label><!-- Pass1Mobile1 --></label>
+        <name>Pass1Mobile1__c</name>
+    </fields>
+    <fields>
+        <label><!-- info --></label>
+        <name>info__c</name>
+    </fields>
+    <fields>
+        <label><!-- infotestarea --></label>
+        <name>infotestarea__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

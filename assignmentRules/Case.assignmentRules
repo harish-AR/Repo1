@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AssignmentRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <assignmentRule>
+        <fullName>CaseTestRule1</fullName>
+        <active>false</active>
+        <ruleEntry>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.CaseNumber</field>
+                <operation>contains</operation>
+                <value>1&amp;2</value>
+            </criteriaItems>
+            <criteriaItems>
+                <field>Case.CreatedById</field>
+                <operation>contains</operation>
+                <value>a&amp;b c&amp;&amp;d e</value>
+            </criteriaItems>
+            <template>CustomEmailFolder/CustomTemplate1</template>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
         <fullName>Standard</fullName>
-        <active>true</active>
+        <active>false</active>
         <ruleEntry>
-            <assignedTo>harishdev@ar.com</assignedTo>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -23,7 +42,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>harishdev@ar.com</assignedTo>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -42,7 +61,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>harishdev@ar.com</assignedTo>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -61,7 +80,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>harishdev@ar.com</assignedTo>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.BillingCountry</field>
@@ -80,12 +99,34 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>harishdev@ar.com</assignedTo>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Account.Type</field>
                 <operation>contains</operation>
                 <value>Partner</value>
+            </criteriaItems>
+        </ruleEntry>
+    </assignmentRule>
+    <assignmentRule>
+        <fullName>Test Rule for UAT</fullName>
+        <active>true</active>
+        <ruleEntry>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.Origin</field>
+                <operation>equals</operation>
+                <value>Phone</value>
+            </criteriaItems>
+        </ruleEntry>
+        <ruleEntry>
+            <assignedTo>eswar.acc1@ar.com</assignedTo>
+            <assignedToType>User</assignedToType>
+            <criteriaItems>
+                <field>Case.Origin</field>
+                <operation>equals</operation>
+                <value>Email</value>
             </criteriaItems>
         </ruleEntry>
     </assignmentRule>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Benifit</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Benifits</value>
+    </caseValues>
+    <fields>
+        <label><!-- Activity advance --></label>
+        <name>Activity_advance__c</name>
+    </fields>
+    <fields>
+        <label><!-- Benifitpicklistupdated --></label>
+        <name>Benifit_picklist_updated__c</name>
+        <picklistValues>
+            <masterLabel>Modifiedvalue1</masterLabel>
+            <translation><!-- Modifiedvalue1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Modifiedvalue2</masterLabel>
+            <translation><!-- Modifiedvalue2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>c</masterLabel>
+            <translation><!-- c --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- CurrencyIsoCode --></label>
+        <name>CurrencyIsoCode__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field12345 --></label>
+        <name>Field1__c</name>
+    </fields>
+    <fields>
+        <label><!-- NewCommit --></label>
+        <name>NewCommit_del__c</name>
+    </fields>
+    <fields>
+        <label><!-- TestActivity --></label>
+        <name>TestActivity_del__c</name>
+        <relationshipLabel><!-- Benifits --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- TestActivity --></label>
+        <name>TestActivity_del_del__c</name>
+        <relationshipLabel><!-- Benifits --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- contact det --></label>
+        <name>contact_det__c</name>
+    </fields>
+    <fields>
+        <label><!-- picklist123 --></label>
+        <name>picklist123__c</name>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>4</masterLabel>
+            <translation><!-- 4 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- share --></label>
+        <name>share__c</name>
+    </fields>
+    <fields>
+        <label><!-- xmlfile --></label>
+        <name>xmlfile__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

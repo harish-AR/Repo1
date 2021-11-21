@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Track</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Tracks</value>
+    </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dataloader Config --></label>
+        <name>Dataloader_Config__c</name>
+    </fields>
+    <fields>
+        <label><!-- Diff check --></label>
+        <name>Diff_check__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field123 --></label>
+        <name>Field123__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field345 --></label>
+        <name>Field345__c</name>
+    </fields>
+    <fields>
+        <label><!-- Formula field --></label>
+        <name>Formula_field__c</name>
+    </fields>
+    <fields>
+        <label><!-- Newfieldtrack --></label>
+        <name>Newfieldtrack__c</name>
+    </fields>
+    <fields>
+        <label><!-- Track Formula --></label>
+        <name>Track_Formula__c</name>
+    </fields>
+    <fields>
+        <label><!-- Track list --></label>
+        <name>Track_list__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Trl picklist2 --></label>
+        <name>Trl_picklist2__c</name>
+        <picklistValues>
+            <masterLabel>abc</masterLabel>
+            <translation><!-- abc --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>rrr</masterLabel>
+            <translation><!-- rrr --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>ttt</masterLabel>
+            <translation><!-- ttt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>yyy</masterLabel>
+            <translation><!-- yyy --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- llll --></label>
+        <name>llll__c</name>
+    </fields>
+    <fields>
+        <label><!-- trackdate --></label>
+        <name>trackdate__c</name>
+    </fields>
+    <fields>
+        <label><!-- track new --></label>
+        <name>trackfield__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

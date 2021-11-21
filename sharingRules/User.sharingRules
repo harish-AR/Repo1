@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sharingCriteriaRules>
+        <fullName>UserSharingRuleTest1</fullName>
+        <accessLevel>Edit</accessLevel>
+        <description>UserSharingRuleTest1 test</description>
+        <label>UserSharingRuleTest1</label>
+        <sharedTo>
+            <allPartnerUsers></allPartnerUsers>
+        </sharedTo>
+        <criteriaItems>
+            <field>CompanyName</field>
+            <operation>contains</operation>
+            <value>a</value>
+        </criteriaItems>
+    </sharingCriteriaRules>
+    <sharingOwnerRules>
+        <fullName>UserSharingRuleTest2</fullName>
+        <accessLevel>Edit</accessLevel>
+        <description>Based</description>
+        <label>UserSharingRuleTest2</label>
+        <sharedTo>
+            <allCustomerPortalUsers></allCustomerPortalUsers>
+        </sharedTo>
+        <sharedFrom>
+            <territory>TerritoryModelTest1.TerritoryTest1</territory>
+        </sharedFrom>
+    </sharingOwnerRules>
+    <sharingOwnerRules>
+        <fullName>UserSharingRuleTest3</fullName>
+        <accessLevel>Edit</accessLevel>
+        <description>test33</description>
+        <label>UserSharingRuleTest3</label>
+        <sharedTo>
+            <role>CEO</role>
+        </sharedTo>
+        <sharedFrom>
+            <allCustomerPortalUsers></allCustomerPortalUsers>
+        </sharedFrom>
+    </sharingOwnerRules>
+</SharingRules>

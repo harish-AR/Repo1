@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>icmrcobj1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>icmrcobj1s</value>
+    </caseValues>
+    <fields>
+        <label><!-- field10 --></label>
+        <name>field10__c</name>
+    </fields>
+    <fields>
+        <label><!-- filed1 --></label>
+        <name>filed10__c</name>
+    </fields>
+    <fields>
+        <label><!-- field11 --></label>
+        <name>filed11__c</name>
+    </fields>
+    <fields>
+        <label><!-- field12 --></label>
+        <name>filed12__c</name>
+    </fields>
+    <fields>
+        <label><!-- field13 --></label>
+        <name>filed13__c</name>
+    </fields>
+    <fields>
+        <label><!-- field14 --></label>
+        <name>filed14__c</name>
+    </fields>
+    <fields>
+        <label><!-- filed1 --></label>
+        <name>filed1__c</name>
+    </fields>
+    <fields>
+        <label><!-- filed2 --></label>
+        <name>filed2__c</name>
+    </fields>
+    <fields>
+        <label><!-- filed3 --></label>
+        <name>filed3__c</name>
+    </fields>
+    <fields>
+        <label><!-- field4 --></label>
+        <name>filed4__c</name>
+    </fields>
+    <fields>
+        <label><!-- field5 --></label>
+        <name>filed5__c</name>
+    </fields>
+    <fields>
+        <label><!-- field6 --></label>
+        <name>filed6__c</name>
+    </fields>
+    <fields>
+        <label><!-- field7 --></label>
+        <name>filed7__c</name>
+    </fields>
+    <fields>
+        <label><!-- field8 --></label>
+        <name>filed8__c</name>
+    </fields>
+    <fields>
+        <label><!-- field9 --></label>
+        <name>filed9__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

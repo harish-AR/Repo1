@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>CustomControllerObj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>CustomControllerObjs</value>
+    </caseValues>
+    <fields>
+        <label><!-- textfield1 --></label>
+        <name>textfield1__c</name>
+    </fields>
+    <fields>
+        <label><!-- textfield2 --></label>
+        <name>textfield2__c</name>
+    </fields>
+    <fields>
+        <label><!-- textfield3 --></label>
+        <name>textfield3__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

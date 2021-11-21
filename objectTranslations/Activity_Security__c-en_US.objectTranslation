@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Activity Security</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Activity Securities</value>
+    </caseValues>
+    <fields>
+        <label><!-- perfume --></label>
+        <name>perfume_del__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

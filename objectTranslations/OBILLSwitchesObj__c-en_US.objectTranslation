@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>OBILLSwitches</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>OBILLSwitches</value>
+    </caseValues>
+    <fields>
+        <label><!-- CustomerEamil --></label>
+        <name>CustomerEamil__c</name>
+    </fields>
+    <fields>
+        <label><!-- IsAvailableForLive --></label>
+        <name>IsAvailableForLive__c</name>
+    </fields>
+    <fields>
+        <label><!-- NumberOFProductsPurchase --></label>
+        <name>NumberOFProductsPurchase__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductCost --></label>
+        <name>ProductCost__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductDescription --></label>
+        <name>ProductDescription__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductFeedBackInfo --></label>
+        <name>ProductFeedBackInfo__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductPurchaseDate --></label>
+        <name>ProductPurchaseDate__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductSupportMobileNumber --></label>
+        <name>ProductSupportMobileNumber__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductUrlInfo --></label>
+        <name>ProductUrlInfo__c</name>
+    </fields>
+    <fields>
+        <label><!-- ProductUsagePercentage --></label>
+        <name>ProductUsagePercentage__c</name>
+    </fields>
+    <fields>
+        <label><!-- SwitchDateTime --></label>
+        <name>SwitchDateTime__c</name>
+    </fields>
+    <fields>
+        <label><!-- Value --></label>
+        <name>Value__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

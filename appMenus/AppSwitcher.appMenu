@@ -9,6 +9,10 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
+        <name>AutoRABITapp1</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>standard__Service</name>
         <type>CustomApplication</type>
     </appMenuItems>
@@ -41,39 +45,7 @@
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
-        <name>standard__Insights</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningSalesConsole</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningService</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
         <name>standard__LightningSales</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningInstrumentation</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__LightningBolt</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__SalesforceCMS</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__AllTabSet</name>
-        <type>CustomApplication</type>
-    </appMenuItems>
-    <appMenuItems>
-        <name>standard__Commerce</name>
         <type>CustomApplication</type>
     </appMenuItems>
     <appMenuItems>
@@ -107,5 +79,61 @@
     <appMenuItems>
         <name>Workbench</name>
         <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Alcon_AR__AutoRABITAPP</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>ConnectedTestApp1</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>ConnectedTestApp2</name>
+        <type>ConnectedApp</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Alcon_AR__Test_App</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>EswarCom</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__LightningInstrumentation</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__SalesforceCMS</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Alcon_AR__TrainingApp</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>CustomerServiceCom</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>CustomerService</name>
+        <type>Network</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__AllTabSet</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>standard__Commerce</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Alcon_AR__App_ncino</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Alcon_AR__ap1</name>
+        <type>CustomApplication</type>
     </appMenuItems>
 </AppMenu>
